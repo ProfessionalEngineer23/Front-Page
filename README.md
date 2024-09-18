@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShyGuy2323
 - 👀 I’m interested in avacados
 - 🌱 I’m currently learning coding. I'm a noob
-- 💞️ I’m looking to collaborate on roms
+- 💞️ I’m looking to collaborate on custom roms for android
 - 📫 How to reach me N/A
 - ⚡ Fun fact: I like cats
 

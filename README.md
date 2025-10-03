@@ -1,9 +1,8 @@
-# Hi there, I'm Niki 👋
+# It's me 
 
-🎓 Computer Engineering Student @ [Technological University Dublin](https://www.tudublin.ie/)  
-💻 Interested in Embedded Systems, IoT, AI, and Cloud Computing    
 
-![Header](https://i.imgur.com/Pe0JZ5M.png) 
+ 
+I'm Interested in Embedded Systems, IoT, AI, and Cloud Computing    
 
 ---
 
@@ -15,4 +14,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niki-mardari-5909941a4)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ProfessionalEngineer23)
+[![YouTube](https://www.youtube.com/@Pengui23/shorts)]
 

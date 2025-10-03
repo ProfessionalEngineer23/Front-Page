@@ -1,5 +1,5 @@
-# Name: Niki Mardari
-# Interests: New Technologies, embedded systems, IoT, AI, YouTube
+# Hi, I'm Niki
+# Interests: Embedded systems, IoT, AI, YouTube...
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=radical)

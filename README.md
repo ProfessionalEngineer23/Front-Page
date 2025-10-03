@@ -1,5 +1,13 @@
 # It's me ...
 
+---
+I'm Interested in Embedded Systems, IoT, AI, and Cloud Computing    
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=radical)
+
+---
 Cpu:
 ⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⢀⣀⣀⡀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⠀⠀⠸⣿⣿⠇⠀⠀⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀
@@ -15,16 +23,10 @@ Cpu:
 ⠀⠀⠀⠀⠀⠈⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠁⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠀⠀⢰⣿⣿⡆⠀⠀⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠈⠉⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
-Sand -> c
+⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠈⠉⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀
+⠀⠀⠀⠀
 
-I'm Interested in Embedded Systems, IoT, AI, and Cloud Computing    
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=radical)
-
-Jack of all trades, master of none
+Remember Sand -> c
 ---
 
 ## 🌐 Connect with Me

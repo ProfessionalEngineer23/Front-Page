@@ -10,7 +10,7 @@
 - Currently working on **Embedded Systems**
 - Open to collaborating on projects where I can learn and contribute
 - Always improving — feedback and suggestions welcome
-- Currently learning **GNSS**
+- Currently learning how to learn *continuously
 - Ask me about anything — I’ll do my best to help
 
 ---
